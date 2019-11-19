@@ -1,2 +1,2 @@
-# bananadrop
-how to monkey hit the banana and end game please. Opengl
+# dinosour
+how to dinosor hit the cactus and end game please. Opengl
